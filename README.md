@@ -1,4 +1,4 @@
-# 🚢 🇳🇬 Nigeria Customs Container AI
+# 🚢 🇳🇬 Container AI
 
 **MSc Robotics - University of Plymouth 2025**  
 **Edge-AI ISO 6346 Container Validation System** (Raspberry Pi)
