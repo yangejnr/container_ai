@@ -1,6 +1,13 @@
 # AI-Based Container Scanner
 
+[![Code Health](https://github.com/yangejnr/container_ai/actions/workflows/code-health.yml/badge.svg)](https://github.com/yangejnr/container_ai/actions/workflows/code-health.yml)
+
 An edge-AI prototype for reading and validating ISO 6346 shipping-container identification codes using computer vision, OCR and standards-based check-digit verification.
+
+## Engineering Deep Dive
+
+- [System Architecture](ARCHITECTURE.md)
+- [Executive Summary](executive_summary.md)
 
 ## Project Vision
 
@@ -72,6 +79,7 @@ Before production use, the system would require:
 ```text
 container_ai/
 ├── src/                  # prototype implementation
+├── ARCHITECTURE.md       # system design
 ├── executive_summary.md  # business/technical assessment
 ├── executive_summary.docx
 └── README.md
@@ -85,4 +93,4 @@ container_ai/
 
 **Yange Henry Terzugwe**  
 MSc Robotics — University of Plymouth  
-Software Developer • AI & Robotics Practitioner
+Software Engineer | AI & Robotics
